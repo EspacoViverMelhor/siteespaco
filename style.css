@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+
+.tudo img {
+    width: 97vw;
+    height: 100vh;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.whats {
+    width: 10vw;
+}
+
+.insta {
+    margin-left: 10vw;
+    width: 10vw;
+}
+
+.face {
+    width: 10vw;
+}
+
+.b {
+    margin-top: 50px;
+    width: 40vw;
+    height: 15vh;
+    margin-left: 0vw;
+}
+
+.b  {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    background-color: green;
+    border-radius: 7px;
+    color: white;
+}
+
+button:hover {
+    transform: scale(1.1);
+    transition: all 0.5s;
+  } 
+
+.btn {
+    margin-top: -23vh;
+}
+
+.btn img {
+    margin-left: 0px;
+    margin-top: -25px;
+}
